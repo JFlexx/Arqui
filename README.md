@@ -1,5 +1,5 @@
 # Arqui
-La asignatura más difícil de la carrera hasta  ahora probably. gl.
+
 
 nota: 9.
 
